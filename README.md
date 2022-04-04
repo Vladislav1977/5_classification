@@ -1,1 +1,1 @@
-# 5_classification
+# KNN не получился. Если кому не лень, можете дать рекомендацию почему в функции predict_prova  класса CustomKNeighborsClassifier ответ не сходится с библиотекой.
